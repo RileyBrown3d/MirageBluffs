@@ -2,8 +2,6 @@
 .DS_Store
 
 ### whitelisted files
-Binaries/
-/Intermediate
 !Resources/*
 !Screenshots/*
 !git-lfs.exe
